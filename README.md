@@ -25,6 +25,6 @@ Use the `song helper ` to help to play the song
 
 # Instructions for SongHelper
 
-`python songhelper.py`
+`python songHelper.py`
 
 Enter the project file's name
