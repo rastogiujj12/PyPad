@@ -5,6 +5,8 @@ This project uses Unipad's project file which can be downloaded or created easil
 
 Buttons of launchpad are mapped to various keys of keyboard.
 
+Use songHelper to see which keys are being used.
+
  
 
 # Instructions for Launchapad
