@@ -1,7 +1,7 @@
 # PyPad
 A Simple Emulator for [Novation Launchpad](https://novationmusic.com/launch/launchpad) in Python3.
 
-This project uses Unipad's project file which can be downloaded or created easily.
+This project uses Unipad's project file which can be downloaded(http://www.loseart.com/p/list-unipack.html) or created easily.
 
 Buttons of launchpad are mapped to various keys of keyboard.
 
