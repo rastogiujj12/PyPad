@@ -14,7 +14,6 @@ Use songHelper to see which keys are being used.
 
 ## Execute following commands
 
-`python -m pip install --upgrade pip`
 
 `pip install simpleaudio`
 
